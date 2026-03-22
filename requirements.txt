@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+joblib
+streamlit
+fsspec
+huggingface_hub
+lingua-language-detector
+deep-translator
